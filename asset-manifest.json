@@ -1,5 +1,5 @@
 {
-  "main.css": "/Google-Book-Search/./static/css/main.6e561ddd.chunk.css",
+  "main.css": "/Google-Book-Search/./static/css/main.a86354d1.chunk.css",
   "main.js": "/Google-Book-Search/./static/js/main.a43dd0e4.chunk.js",
   "main.js.map": "/Google-Book-Search/./static/js/main.a43dd0e4.chunk.js.map",
   "runtime~main.js": "/Google-Book-Search/./static/js/runtime~main.5ee94796.js",
@@ -7,7 +7,7 @@
   "static/js/2.3b54c473.chunk.js": "/Google-Book-Search/./static/js/2.3b54c473.chunk.js",
   "static/js/2.3b54c473.chunk.js.map": "/Google-Book-Search/./static/js/2.3b54c473.chunk.js.map",
   "index.html": "/Google-Book-Search/./index.html",
-  "precache-manifest.1e5d137c982687118c390447245ac350.js": "/Google-Book-Search/./precache-manifest.1e5d137c982687118c390447245ac350.js",
+  "precache-manifest.31ba0a041416129a115a73fcd7fc81a5.js": "/Google-Book-Search/./precache-manifest.31ba0a041416129a115a73fcd7fc81a5.js",
   "service-worker.js": "/Google-Book-Search/./service-worker.js",
-  "static/css/main.6e561ddd.chunk.css.map": "/Google-Book-Search/./static/css/main.6e561ddd.chunk.css.map"
+  "static/css/main.a86354d1.chunk.css.map": "/Google-Book-Search/./static/css/main.a86354d1.chunk.css.map"
 }

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Google-Book-Search/./static/js/runtime~main.5ee94796.js"
   },
   {
-    "revision": "d76c3df045724fa2ed41",
+    "revision": "d654880bdd039342e91a",
     "url": "/Google-Book-Search/./static/js/main.a43dd0e4.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/Google-Book-Search/./static/js/2.3b54c473.chunk.js"
   },
   {
-    "revision": "d76c3df045724fa2ed41",
-    "url": "/Google-Book-Search/./static/css/main.6e561ddd.chunk.css"
+    "revision": "d654880bdd039342e91a",
+    "url": "/Google-Book-Search/./static/css/main.a86354d1.chunk.css"
   },
   {
-    "revision": "8972e2285f3468fae4624d15fab5566f",
+    "revision": "a6c5a39f84f9763a65552285629eba4a",
     "url": "/Google-Book-Search/./index.html"
   }
 ];
