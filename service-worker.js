@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Google-Book-Search/precache-manifest.7a63abb6085ea30047d15dbde6670902.js"
+  "/Google-Book-Search/./precache-manifest.1e5d137c982687118c390447245ac350.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Google-Book-Search/index.html", {
+workbox.routing.registerNavigationRoute("/Google-Book-Search/./index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
