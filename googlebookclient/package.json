@@ -1,6 +1,6 @@
 {
   "name": "googlebookclient",
-  "homepage": "https://atiftariq786.github.io/Google-Book-Search/",
+  "homepage": "https://atiftariq786.github.io/Google-Book-Search/.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
